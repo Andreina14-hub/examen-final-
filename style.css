@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Roboto", "Roboto-thin", "Roboto-light", sans-serif;
+}
+.tfs {
+  border-bottom: 1px solid #f8f9fa;
+}
+.psz {
+  font-size: 1em;
+}
+h1 {
+  font-size: 2em;
+  border-top: 1px solid #f8f9fa;
+}
+h2 {
+  border-top: 1px solid #000;
+}
+.lib {
+  border-bottom: 1px solid #000;
+}
+.bg-p {
+  background-color: #f56668;
+}
+.bbc{
+	border-bottom:5px solid #f56668 ;
+}
+.li-h {
+	font-size: 0.9em;
+  line-height: 2;
+}
+.hero p{
+	font-size: 1.2em;
+}
+.bg-bttn {
+  background-color: #c8c57e;
+}
+.tex-color {
+  color: #f56668;
+}
+.hero {
+  background-image: url("./img/chef_bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+}
